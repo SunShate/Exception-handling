@@ -1,0 +1,4 @@
+Main.java 19 IllegalArgumentException 952286279 "Test 1"
+Main.java 25 NullPointerException 952286285 "Test 2"
+Main.java 31 IndexOutOfBoundsException 952286291 "Test 3"
+Main.java 37 NoSuchFileException 952286297 "Test aboba.xml"
